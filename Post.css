@@ -1,0 +1,71 @@
+.First{
+    border: 2px solid black;
+    width: 100%;
+    height:50px;
+    background-color: rgb(177, 177, 177);
+}
+.h_tag{
+    font-weight: 900;
+}
+.form{
+    display: flex;
+    align-items: center;
+}
+input{
+    margin: 10px;
+}
+.Heading{
+    font-weight: bolder;
+}
+ 
+.textbox{
+    font-weight: 800;
+
+} 
+#area{
+    width: 100%;
+}
+
+.Tags{
+    display: flex;
+    font-weight: bolder;
+}
+#text{
+    width:100%;
+    background-color: rgb(208, 208, 208);
+}
+button{
+     padding-top: 10px;
+    padding-bottom: 10px; 
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.button{
+    margin-left: auto;
+}
+
+.Title{
+    width: 90%;
+    padding: 10px;
+    background-color: rgb(176, 176, 176);
+
+}
+.Heading_Border{
+    border: 2px solid black;
+    background-color: rgb(181, 181, 181);
+}
+.Text_Adding{
+    text-align: center;
+
+    font-weight: 700;
+    font-size: 25px;
+
+}
+.Article_Margin{
+    margin-top: 20px;
+}
+.button {
+    text-align: right;
+  }
